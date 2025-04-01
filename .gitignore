@@ -1,0 +1,8 @@
+node_modules/
+build/
+lambda.zip
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+.DS_Store
+.env
