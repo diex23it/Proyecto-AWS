@@ -1,0 +1,13 @@
+{
+  "name": "order-api",
+  "version": "1.0.0",
+  "description": "API RESTful para procesar pedidos en AWS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1352.0",
+    "uuid": "^9.0.0"
+  }
+}
